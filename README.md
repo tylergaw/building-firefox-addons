@@ -7,6 +7,11 @@ to be hopelessly out of date.
 This repo is an attempt to gather information and examples of Firefox Add-on
 development and best practices.
 
+## News
+
+Apparently something good has happened with Jetpack? But I have no idea what:
+https://blog.mozilla.org/addons/2013/05/14/jetpack-project-weekly-update-for-may-14-2013/
+
 ## "Official" Documentation
 
 I'm quoting that because it's hard to tell what docs are current. Or if you're
